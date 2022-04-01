@@ -1,0 +1,70 @@
+*{
+	font-family: verdana;
+}
+body{
+	background-color: 	black;
+}
+h1{
+	color: white;
+	font-size: 50px;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: verdana;
+	border-style: hidden;
+	border-height: 20px;
+	background-color: black;
+}
+div{
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 0px;
+	margin-top: -16px;
+	background-color: dimgrey;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.menu{
+	list-style: none;
+	display: block;
+}
+.menu li{
+	padding-left: 100px;
+	font-size: 35px;
+	display: inline;
+	position: relative;
+}
+.menu li a{
+	font-size: 35px;
+	transition: .5s
+}
+.menu li a:hover{
+	font-size: 40px;
+	color: red;
+}
+.cars{
+	background-color: darkgray;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 40px 70px;
+	text-align: center;	
+}
+.cars img{
+	border-radius:14px;
+}
+.giriş{
+	text-indent: 25px;
+}
+.gelişme{
+	text-indent: 20px;
+}
+.hakkımızda{
+	background-color: darkgray;
+ 
+}
